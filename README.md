@@ -16,3 +16,4 @@ This repository documents my learning from the [What is Networking room](https:/
 ## Next Steps
 - Continue with *Defensive Security Intro*  
 - Explore *Offensive Security Intro*
+> Updated on Jan 21, 2026 — added summary notes.
